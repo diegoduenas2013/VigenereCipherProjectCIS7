@@ -3,6 +3,9 @@
 #include<string>
 using namespace std;
 
+//I was working on trying to get it working with multidimensional arrays but i couldn't really
+//get it to work i found these functions in an example online just tweaked them a little to
+//work with what i had in mind
 string key_gen(string text, string key)
 {
 	int x = text.size();
